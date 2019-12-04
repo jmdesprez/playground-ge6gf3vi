@@ -16,4 +16,7 @@ Cette mini démo présente trois fonctionnalités intéressantes de Tech.io :
 -[x] Array.sum
 -[ ] Aucune des réponses ci-desssus
 
-La correction de l'excercice est [disponible ici](https://www.youtube.com/watch?v=AcwzpPLV5HY)
+# Correction
+
+https://www.youtube.com/watch?v=AcwzpPLV5HY
+
