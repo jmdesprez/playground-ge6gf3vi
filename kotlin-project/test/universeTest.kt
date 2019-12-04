@@ -31,6 +31,7 @@ class UniverseTest {
 			success(false)
 			message("Oops! 🐞", ae.message)
 			message("Hint 💡", "Did you properly accumulate all stars into 'totalStars'? 🤔")
+            annotate("universe.kt", 4, "Fix this line", type = AnnotateType.INFO)
 		}
 	}
 
